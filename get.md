@@ -23,11 +23,15 @@
   td ul {
     padding-left: 20px;
   }
-  hr {
-    margin: 40px;
+  code {
+    color: #777777;
   }
-  .enigma-sidebar {
-    display: none;
+  body {
+    line-height: 2;
+    font-family: "Helvetica";
+  }
+  hr {
+    border-top: 3px solid #C0C0C0;
   }
 </style>
 
