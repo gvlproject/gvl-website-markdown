@@ -9,7 +9,7 @@ body {
 hr {
   border-top: 3px solid #C0C0C0;
 }
-img {
+.enigma_blog_post_content img {
   max-height:25px;
 }
 </style>
@@ -30,7 +30,7 @@ Instructions for launching a GVL instance are available [here](https://vlsci.git
 | ![GVL Logo](https://build1.braembl.org.au/wp-content/uploads/2016/03/GVLlogo.png "Genomics Virtual Laboratory") | [Galaxy-Tut](http://galaxy-tut.genome.edu.au) is available for teaching/learning.  | [Documents](https://wiki.galaxyproject.org/Support)  | [Support](mailto:help@genome.edu.au) |
 | ![UCSC Logo](https://build1.braembl.org.au/wp-content/uploads/2016/03/logo_ucsc.jpg) | [UCSC Genome Browser](https://ucsc.genome.edu.au/) is available for research use.  | [Documents](https://genome.ucsc.edu/goldenpath/help/hgTracksHelp.html)  | [Support](mailto:help@genome.edu.au) |
 | ![GenomeSpace Logo](https://build1.braembl.org.au/wp-content/uploads/2016/03/logo_genomespace.png)| [GenomeSpace](https://genomespace.genome.edu.au) is available for research use.  | [Documents](https://vlsci.github.io/lscc_docs/tutorials/genomespace/genomespace/)  | [Support](mailto:help@genome.edu.au) |
-| ![RStudio Logo](https://build1.braembl.org.au/wp-content/uploads/2016/03/rstudio.png) | [RStudio](http://gvl-rstudio.genome.edu.au/rstudio) in Queensland is available for research use.  | Content Cell  | [Support](mailto:help@genome.edu.au) |
+| ![RStudio Logo](https://build1.braembl.org.au/wp-content/uploads/2016/03/rstudio.png) | [RStudio](http://gvl-rstudio.genome.edu.au/rstudio) in Queensland is available for research use.  |   | [Support](mailto:help@genome.edu.au) |
 
 
 * * *
