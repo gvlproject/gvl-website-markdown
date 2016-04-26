@@ -12,6 +12,8 @@ Dr. Andrew Isaac is VLSCI Platforms Lead, providing core hardware and software i
 
 ### Nuwan Goonasekera
 
+Nuwan is a research scientist at VLSCI. He is currently working primarily on the backend infrastructure of the GVL, including supporting projects such as CloudLaunch, CloudMan and the GVL playbooks.
+
 ### Jessica Chung
 
 Jessica Chung is a bioinformatician at VLSCI. She is an administrator for Galaxy Melbourne and is involved with the maintenance of Galaxy tools.
