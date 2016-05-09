@@ -33,3 +33,5 @@ Anna Syme is a bioinformatician at VLSCI. She works on the tutorials and workflo
 ### Igor Makunin
 
 ### Derek Benson
+
+Derek is the primary systems administrator of the public GVL server [Galaxy-QLD.genome.edu.au](http://galaxy-qld.genome.edu.au). He brings his expertise in virtualization and the cloud to assist users of the GVL to better use platform. As well as this he is involved in testing, bug fixing, and wrapping tools for the Galaxy platform.
