@@ -191,7 +191,7 @@ Info here.
 </div>
 <div class="info">
 <h3>Igor Makunin</h3>
-Info here.
+Igor provides support for the public GVL server [galaxy-qld.genome.edu.au](http://galaxy-qld.genome.edu.au). He liaises with scientists, deals with user problems and does Galaxy training.
 </div>
 </div>
 
@@ -202,6 +202,6 @@ Info here.
 </div>
 <div class="info">
 <h3>Derek Benson</h3>
-Info here.
+Derek is the primary systems administrator of the public GVL server [Galaxy-QLD.genome.edu.au](http://galaxy-qld.genome.edu.au). He brings his expertise in virtualization and the cloud to assist users of the GVL to better use the platform. As well as this he is involved in testing, bug fixing, and wrapping tools for the Galaxy platform.
 </div>
 </div>
