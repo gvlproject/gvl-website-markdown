@@ -92,7 +92,7 @@ Dr. Andrew Isaac is VLSCI Platforms Lead, providing core hardware and software i
 </div>
 <div class="info">
 <h3>Simon Gladman</h3>
-Info here.
+Simon is a research scientist at VLSCI. He is a developer for the GVL, particularly the microbial GVL. He is also the lead implementer of shared services using the GVL.
 </div>
 </div>
 
