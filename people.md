@@ -1,26 +1,4 @@
 <style>
-    @media (min-width: 1200px) {
-    .wrapper {
-        width: 1170px;
-        overflow: hidden;
-        min-height: 150px;
-    }
-    .info {
-      width: 1020px;
-      float: left;
-    }
-  }
-    @media (min-width: 992px) {
-    .wrapper {
-        width: 970px;
-        overflow: hidden;
-        min-height: 150px;
-    }
-    .info {
-      width: 820px;
-      float: left;
-    }
-  }
     @media (min-width: 768px) {
     .wrapper {
         width: 750px;
@@ -28,39 +6,64 @@
         min-height: 150px;
     }
     .info {
-      width: 600px;
-      float: left;
+      width: 560px;
+      min-height: 150px;
+      display: inline-block;
     }
   }
-
+  @media (min-width: 992px) {
   .wrapper {
-      width: 750px;
+      width: 727px;
+      overflow: hidden;
+      min-height: 150px;
+    }
+    .info {
+      width: 537px;
+      min-height: 150px;
+      display: inline-block;
+    }
+  }
+  @media (min-width: 1200px) {
+  .wrapper {
+      width: 887px;
       overflow: hidden;
       min-height: 150px;
   }
   .info {
-    width: 600px;
-    float: left;
+    width: 682px;
+    min-height: 150px;
+    display: inline-block;
   }
-    .round {
-        border-radius: 50%;
-        overflow: hidden;
-        width: 150px;
-        height: 150px;
-        float: left;
-    }
-    .round img {
-        display: block;
-        min-width: 100%;
-        min-height: 100%;
-    }
-    body {
-      line-height: 2;
-      font-family: "Helvetica";
-    }
-    hr {
-      border-top: 3px solid #C0C0C0;
-    }
+  }
+  .wrapper {
+      min-height: 150px;
+      margin: 10px 0px;
+  }
+  .info {
+    min-height: 150px;
+    display: inline-block;
+    margin-left: 10px;
+  }
+  .round {
+      border-radius: 50%;
+      overflow: hidden;
+      width: 150px;
+      height: 150px;
+      float: left;
+      margin-top: 9px;
+  }
+  .round img {
+      display: block;
+      min-width: 100%;
+      min-height: 100%;
+  }
+  body {
+    line-height: 2;
+    font-family: "Helvetica";
+  }
+  hr {
+    border-top: 3px solid #C0C0C0;
+  }
 </style>
 
 ##People
