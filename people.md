@@ -70,7 +70,7 @@
 
 <div class="wrapper">
 <div class="round">
-  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/03/imageGVL2.jpg" />
+  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/05/ALonie2015crop2.jpg" />
 </div>
 <div class="info">
 <h3>Andrew Lonie</h3>
@@ -80,7 +80,7 @@ Info here.
 
 <div class="wrapper">
 <div class="round">
-  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/03/imageGVL2.jpg" />
+  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/05/people_andrew_isaac.jpg" />
 </div>
 <div class="info">
 <h3>Andrew Isaac</h3>
@@ -91,7 +91,7 @@ Dr. Andrew Isaac is VLSCI Platforms Lead, providing core hardware and software i
 
 <div class="wrapper">
 <div class="round">
-  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/03/imageGVL2.jpg" />
+  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/05/simonx.jpg" />
 </div>
 <div class="info">
 <h3>Simon Gladman</h3>
@@ -102,7 +102,7 @@ Simon is a research scientist at VLSCI. He is a developer for the GVL, particula
 
 <div class="wrapper">
 <div class="round">
-  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/03/imageGVL2.jpg" />
+  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/05/torsten.jpg" />
 </div>
 <div class="info">
 <h3>Torsten Seemann</h3>
@@ -113,7 +113,7 @@ Info here.
 
 <div class="wrapper">
 <div class="round">
-  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/03/imageGVL2.jpg" />
+  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/05/clare.png" />
 </div>
 <div class="info">
 <h3>Clare Sloggett</h3>
@@ -124,7 +124,7 @@ Info here.
 
 <div class="wrapper">
 <div class="round">
-  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/03/imageGVL2.jpg" />
+  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/05/Nuwanx.jpg" />
 </div>
 <div class="info">
 <h3>Nuwan Goonasekera</h3>
@@ -135,7 +135,7 @@ Nuwan is a research scientist at VLSCI. He is currently working primarily on the
 
 <div class="wrapper">
 <div class="round">
-  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/03/imageGVL2.jpg" />
+  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/05/jessicax.jpg" />
 </div>
 <div class="info">
 <h3>Jessica Chung</h3>
@@ -146,7 +146,7 @@ Jessica Chung is a bioinformatician at VLSCI. She is an administrator for Galaxy
 
 <div class="wrapper">
 <div class="round">
-  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/03/imageGVL2.jpg" />
+  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/05/Maddy.jpg" />
 </div>
 <div class="info">
 <h3>Madison Flannery</h3>
@@ -157,7 +157,7 @@ Madison Flannery is a Bioinformatics Platforms Developer at VLSCI. She works on 
 
 <div class="wrapper">
 <div class="round">
-  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/03/imageGVL2.jpg" />
+  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/05/AnnaCrop.jpg" />
 </div>
 <div class="info">
 <h3>Anna Syme</h3>
