@@ -190,7 +190,7 @@ Info here.
 
 <div class="wrapper">
 <div class="round">
-  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/03/imageGVL2.jpg" />
+  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/05/Igor-LR_crop.jpg" />
 </div>
 <div class="info">
 <h3>Igor Makunin</h3>
