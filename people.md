@@ -201,7 +201,7 @@ Igor provides support for the public GVL server <a href="http://galaxy-qld.genom
 
 <div class="wrapper">
 <div class="round">
-  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/03/imageGVL2.jpg" />
+  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/05/Derek-LR.jpg" />
 </div>
 <div class="info">
 <h3>Derek Benson</h3>
