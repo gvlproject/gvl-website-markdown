@@ -106,7 +106,7 @@ Simon is a research scientist at VLSCI. He is a developer for the GVL, particula
 </div>
 <div class="info">
 <h3>Torsten Seemann</h3>
-Info here.
+Torsten Seemann is lead bioinformatician for the microbial genomics theme at the VLSCI. He works on the command line software, data set components, and training material for the Microbial GVL.
 </div>
 </div>
 
