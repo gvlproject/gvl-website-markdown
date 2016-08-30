@@ -74,7 +74,7 @@
 </div>
 <div class="info">
 <h3>Andrew Lonie</h3>
-Info here.
+Andrew Lonie is Director of VLSCI, Director of the EMBL Australia Bioinformatics Resource (EMBL-ABR), and an associate professor at the Faculty of Medicine, Dentistry and Health Sciences at the University of Melbourne, where he coordinates the MSc (Bioinformatics). Andrew directs a group of bioinformaticians, computational biologists and HPC specialists within the VLSCI and EMBL-ABR to collaborate with and support life sciences researchers in a variety of research projects across Australia.
 </div>
 </div>
 
