@@ -178,13 +178,15 @@ Info here.
 
 
 <div class="wrapper">
-<div class="round">
-  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/03/imageGVL2.jpg" />
-</div>
-<div class="info">
-<h3>Enis Afgan</h3>
-Info here.
-</div>
+  <div class="round">
+    <img src="https://build1.braembl.org.au/wp-content/uploads/2016/08/enis.jpg" />
+  </div>
+
+  <div class="info">
+    <h3>
+      Enis Afgan
+    </h3> Enis Afgan is a research scientist at Johns Hopkins University and member of the GVL project. He works on the complete cloud software stack that enables the GVL platform.
+  </div>
 </div>
 
 
