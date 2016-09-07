@@ -168,11 +168,11 @@ Anna Syme is a bioinformatician at VLSCI. She works on the tutorials and workflo
 
 <div class="wrapper">
 <div class="round">
-  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/03/imageGVL2.jpg" />
+  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/09/pgeorgeson_400.jpg" />
 </div>
 <div class="info">
 <h3>Peter Georgeson</h3>
-Info here.
+Peter is a bioinformatician at VLSCI. He helps add new components to the GVL platform and contributes to the GVL training materials.
 </div>
 </div>
 
