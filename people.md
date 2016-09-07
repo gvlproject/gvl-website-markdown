@@ -45,10 +45,9 @@
     margin-left: 10px;
   }
   .round {
-      border-radius: 50%;
       overflow: hidden;
       width: 150px;
-      height: 150px;
+      height: 200px;
       float: left;
       margin-top: 9px;
   }
@@ -70,7 +69,7 @@
 
 <div class="wrapper">
 <div class="round">
-  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/05/ALonie2015crop2.jpg" />
+  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/09/AndrewLonie.jpg" />
 </div>
 <div class="info">
 <h3>Andrew Lonie</h3>
@@ -80,7 +79,7 @@ Andrew Lonie is Director of VLSCI, Director of the EMBL Australia Bioinformatics
 
 <div class="wrapper">
 <div class="round">
-  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/05/people_andrew_isaac.jpg" />
+  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/09/AndrewIsaac.jpg" />
 </div>
 <div class="info">
 <h3>Andrew Isaac</h3>
@@ -91,7 +90,7 @@ Dr. Andrew Isaac is VLSCI Platforms Lead, providing core hardware and software i
 
 <div class="wrapper">
 <div class="round">
-  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/05/simonx.jpg" />
+  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/09/SimonGladman.jpg" />
 </div>
 <div class="info">
 <h3>Simon Gladman</h3>
@@ -102,7 +101,7 @@ Simon is a research scientist at VLSCI. He is a developer for the GVL, particula
 
 <div class="wrapper">
 <div class="round">
-  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/05/torsten.jpg" />
+  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/09/TorstenSeemann.jpg" />
 </div>
 <div class="info">
 <h3>Torsten Seemann</h3>
@@ -113,7 +112,7 @@ Torsten Seemann is lead bioinformatician for the microbial genomics theme at the
 
 <div class="wrapper">
 <div class="round">
-  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/05/clare.png" />
+  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/09/ClareSloggett.jpg" />
 </div>
 <div class="info">
 <h3>Clare Sloggett</h3>
@@ -124,7 +123,7 @@ Info here.
 
 <div class="wrapper">
 <div class="round">
-  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/05/Nuwanx.jpg" />
+  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/09/NuwanGoonasekera.jpg" />
 </div>
 <div class="info">
 <h3>Nuwan Goonasekera</h3>
@@ -135,7 +134,7 @@ Nuwan is a research scientist at VLSCI. He is currently working primarily on the
 
 <div class="wrapper">
 <div class="round">
-  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/05/jessicax.jpg" />
+  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/09/JesiccaChung.jpg" />
 </div>
 <div class="info">
 <h3>Jessica Chung</h3>
@@ -146,7 +145,7 @@ Jessica Chung is a bioinformatician at VLSCI. She is an administrator for Galaxy
 
 <div class="wrapper">
 <div class="round">
-  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/05/Maddy.jpg" />
+  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/09/MadisonFlannery.jpg" />
 </div>
 <div class="info">
 <h3>Madison Flannery</h3>
@@ -157,7 +156,7 @@ Madison Flannery is a Bioinformatics Platforms Developer at VLSCI. She works on 
 
 <div class="wrapper">
 <div class="round">
-  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/05/AnnaCrop.jpg" />
+  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/09/AnnaSyme.jpg" />
 </div>
 <div class="info">
 <h3>Anna Syme</h3>
@@ -168,7 +167,7 @@ Anna Syme is a bioinformatician at VLSCI. She works on the tutorials and workflo
 
 <div class="wrapper">
 <div class="round">
-  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/09/pgeorgeson_400.jpg" />
+  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/09/PeterGeorgeson.jpg" />
 </div>
 <div class="info">
 <h3>Peter Georgeson</h3>
@@ -178,7 +177,7 @@ Peter is a bioinformatician at VLSCI. He helps add new components to the GVL pla
 
 
 <div class="wrapper">
-  <div class="round">
+  <div class="round" style="height: 160px;">
     <img src="https://build1.braembl.org.au/wp-content/uploads/2016/08/enis.jpg" />
   </div>
 
