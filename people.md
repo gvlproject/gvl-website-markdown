@@ -156,7 +156,7 @@ Madison Flannery is a Bioinformatics Platforms Developer at VLSCI. She works on 
 
 <div class="wrapper">
 <div class="round">
-  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/09/AnnaSyme.jpg" />
+  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/09/Anna_Syme.jpeg" />
 </div>
 <div class="info">
 <h3>Anna Syme</h3>
@@ -166,8 +166,8 @@ Anna Syme is a bioinformatician at VLSCI. She works on the tutorials and workflo
 
 
 <div class="wrapper">
-<div class="round">
-  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/09/PeterGeorgeson.jpg" />
+<div class="round" style="height: 160px;">
+  <img src="https://build1.braembl.org.au/wp-content/uploads/2016/09/pgeorgeson.jpg" />
 </div>
 <div class="info">
 <h3>Peter Georgeson</h3>
