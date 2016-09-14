@@ -7,6 +7,7 @@
     border-top: 3px solid #C0C0C0;
   }
 </style>
+
 # Tutorials and Protocols
 
 The GVL project team have produced a number of tutorials and analysis protocols for:
@@ -90,7 +91,6 @@ Variant calling is the process of finding differences in your read data set from
 #### [Advanced Galaxy Tutorial](http://vlsci.github.io/lscc_docs/tutorials/var_detect_advanced/var_detect_advanced/)
 
 *   In this tutorial we compare the performance of three statistically-based variant detection tools:
-    *   SAMtools: Mpileup
     *   GATK: Unified Genotyper
     *   FreeBayes
 *   Each of these tools takes as its input a BAM file of aligned reads and generates a list of likely variants in VCF format

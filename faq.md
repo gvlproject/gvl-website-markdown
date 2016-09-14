@@ -137,7 +137,7 @@ Yes for run time, no for queue time. Do the following:
 
 ## Disk quotas for Australian researchers on Galaxy-qld
 
-After registration on Galaxy-qld all new users are assigned 200 GB disk quota. Later we allocate more disk space for Australian and UQ users. This will usually happen within one working day after the registration. The disk quota can be seen in Galaxy under *User* > *Preferences*
+After registration on Galaxy-qld all new users are assigned 100 GB disk quota. Later we allocate more disk space for Australian and UQ users. This will usually happen within one working day after the registration. The disk quota can be seen in Galaxy under *User* > *Preferences*
 
 * * *
 
