@@ -90,7 +90,7 @@ Variant calling is the process of finding differences in your read data set from
 
 #### [Advanced Galaxy Tutorial](http://vlsci.github.io/lscc_docs/tutorials/var_detect_advanced/var_detect_advanced/)
 
-*   In this tutorial we compare the performance of three statistically-based variant detection tools:
+*   In this tutorial we compare the performance of two statistically-based variant detection tools:
     *   GATK: Unified Genotyper
     *   FreeBayes
 *   Each of these tools takes as its input a BAM file of aligned reads and generates a list of likely variants in VCF format
