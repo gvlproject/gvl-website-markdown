@@ -126,7 +126,25 @@ Flavours are versions of the GVL with slightly customised toolsets. These toolse
 
 <tbody>
 <tr>
-<td>4.0.0 Beta1</td>
+<td>4.1.0</td>
+<td>
+<ul>
+<li>Galaxy updated to 16.04</li>
+<li>Updated list of tools and tool revisions</li>
+<li>Easier import/export of files from/to GenomeSpace</li>
+<li>SMRT portal uses distributed jobs and has better space management</li>
+<li>New installable packages for Web Apollo, IRIDA</li>
+<li>User accounts are now synchronised across the whole cluster.</li>
+<li>X-Forwarding support</li>
+<li>Increased space in root partition and reduced virtual image size</li>
+</ul>
+</td>
+<td></td>
+</tr>
+
+<tr>
+<!--<td>4.0.0 Beta1</td>-->
+<td>4.0.0</td>
 <td>
 <ul>
 <li>GVL now supported on Amazon EC2</li>
