@@ -11,7 +11,7 @@
   }
 </style>
 
-The Genomics Virtual Laboratory takes the IT out of Bioinformatics. It provides a cloud-based suite of genomics analysis tools that would normally require specialist assistance. Refer to [workbench services](/workbench-services) for full details.
+The Genomics Virtual Laboratory takes the IT out of Bioinformatics. It provides a cloud-based suite of genomics analysis tools that would normally require specialist assistance. Refer to [workbench services](/workbench-services) for full details, or you can view our flyer [here](http://genome.edu.au/gvl_files/GVL-flyer-v3.pdf).
 
 * * *
 
