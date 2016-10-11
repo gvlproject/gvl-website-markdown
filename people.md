@@ -69,7 +69,7 @@
 
 <div class="wrapper">
   <div class="round">
-    <img src="https://build1.braembl.org.au/wp-content/uploads/2016/09/AndrewLonie.jpg" />
+    <img src="https://genome.edu.au/wp-content/uploads/2016/09/AndrewLonie.jpg" />
   </div>
   
   <div class="info">
@@ -81,7 +81,7 @@
 
 <div class="wrapper">
   <div class="round">
-    <img src="https://build1.braembl.org.au/wp-content/uploads/2016/09/AndrewIsaac.jpg" />
+    <img src="https://genome.edu.au/wp-content/uploads/2016/09/AndrewIsaac.jpg" />
   </div>
   
   <div class="info">
@@ -93,7 +93,7 @@
 
 <div class="wrapper">
   <div class="round">
-    <img src="https://build1.braembl.org.au/wp-content/uploads/2016/09/SimonGladman.jpg" />
+    <img src="https://genome.edu.au/wp-content/uploads/2016/09/SimonGladman.jpg" />
   </div>
   
   <div class="info">
@@ -105,7 +105,7 @@
 
 <div class="wrapper">
   <div class="round">
-    <img src="https://build1.braembl.org.au/wp-content/uploads/2016/09/TorstenSeemann.jpg" />
+    <img src="https://genome.edu.au/wp-content/uploads/2016/09/TorstenSeemann.jpg" />
   </div>
   
   <div class="info">
@@ -117,7 +117,7 @@
 
 <div class="wrapper">
   <div class="round">
-    <img src="https://build1.braembl.org.au/wp-content/uploads/2016/09/D4D_5706X.jpg" />
+    <img src="https://genome.edu.au/wp-content/uploads/2016/09/D4D_5706X.jpg" />
   </div>
   
   <div class="info">
@@ -129,7 +129,7 @@
 
 <div class="wrapper">
   <div class="round">
-    <img src="https://build1.braembl.org.au/wp-content/uploads/2016/09/NuwanGoonasekera.jpg" />
+    <img src="https://genome.edu.au/wp-content/uploads/2016/09/NuwanGoonasekera.jpg" />
   </div>
   
   <div class="info">
@@ -141,7 +141,7 @@
 
 <div class="wrapper">
   <div class="round">
-    <img src="https://build1.braembl.org.au/wp-content/uploads/2016/09/JesiccaChung.jpg" />
+    <img src="https://genome.edu.au/wp-content/uploads/2016/09/JesiccaChung.jpg" />
   </div>
   
   <div class="info">
@@ -153,7 +153,7 @@
 
 <div class="wrapper">
   <div class="round">
-    <img src="https://build1.braembl.org.au/wp-content/uploads/2016/09/MadisonFlannery.jpg" />
+    <img src="https://genome.edu.au/wp-content/uploads/2016/09/MadisonFlannery.jpg" />
   </div>
   
   <div class="info">
@@ -165,7 +165,7 @@
 
 <div class="wrapper">
   <div class="round">
-    <img src="https://build1.braembl.org.au/wp-content/uploads/2016/09/Anna_Syme.jpeg" />
+    <img src="https://genome.edu.au/wp-content/uploads/2016/09/Anna_Syme.jpeg" />
   </div>
   
   <div class="info">
@@ -177,7 +177,7 @@
 
 <div class="wrapper">
   <div class="round" style="height: 160px;">
-    <img src="https://build1.braembl.org.au/wp-content/uploads/2016/09/pgeorgeson.jpg" />
+    <img src="https://genome.edu.au/wp-content/uploads/2016/09/pgeorgeson.jpg" />
   </div>
   
   <div class="info">
@@ -189,7 +189,7 @@
 
 <div class="wrapper">
   <div class="round" style="height: 160px;">
-    <img src="https://build1.braembl.org.au/wp-content/uploads/2016/08/enis.jpg" />
+    <img src="https://genome.edu.au/wp-content/uploads/2016/08/enis.jpg" />
   </div>
   
   <div class="info">
@@ -201,7 +201,7 @@
 
 <div class="wrapper">
   <div class="round">
-    <img src="https://build1.braembl.org.au/wp-content/uploads/2016/09/Igor-LR_crop_BW.jpg" />
+    <img src="https://genome.edu.au/wp-content/uploads/2016/09/Igor-LR_crop_BW.jpg" />
   </div>
   
   <div class="info">
@@ -213,7 +213,7 @@
 
 <div class="wrapper">
   <div class="round">
-    <img src="https://build1.braembl.org.au/wp-content/uploads/2016/09/Derek-LR_BW.jpg" />
+    <img src="https://genome.edu.au/wp-content/uploads/2016/09/Derek-LR_BW.jpg" />
   </div>
   
   <div class="info">

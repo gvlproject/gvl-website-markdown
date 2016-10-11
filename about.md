@@ -25,7 +25,7 @@ If you wish to acknowledge the use of GVL:
 
 >*(your project) acknowledges the Genomics Virtual Lab (GVL) project and the use of computing resources from the NeCTAR Research Cloud. GVL and NeCTAR are Australian Government projects conducted as part of the Super Science initiative and financed by the Education Investment Fund.*
 
-If you wish to use the GVL logo, you can download it [here](https://build1.braembl.org.au/wp-content/uploads/2016/03/GVLlogo.png).
+If you wish to use the GVL logo, you can download it [here](https://genome.edu.au/wp-content/uploads/2016/03/GVLlogo.png).
 
 * * *
 
