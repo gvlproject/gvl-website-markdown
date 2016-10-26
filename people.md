@@ -69,9 +69,9 @@
 
 <div class="wrapper">
   <div class="round">
-    <img src="https://genome.edu.au/wp-content/uploads/2016/09/AndrewLonie.jpg" />
+    <img src="https://www.genome.edu.au/wp-content/uploads/2016/09/AndrewLonie-200x300.jpg" />
   </div>
-  
+
   <div class="info">
     <h3>
       Andrew Lonie
@@ -81,9 +81,9 @@
 
 <div class="wrapper">
   <div class="round">
-    <img src="https://genome.edu.au/wp-content/uploads/2016/09/AndrewIsaac.jpg" />
+    <img src="https://www.genome.edu.au/wp-content/uploads/2016/09/AndrewIsaac-200x300.jpg" />
   </div>
-  
+
   <div class="info">
     <h3>
       Andrew Isaac
@@ -93,9 +93,9 @@
 
 <div class="wrapper">
   <div class="round">
-    <img src="https://genome.edu.au/wp-content/uploads/2016/09/SimonGladman.jpg" />
+    <img src="https://www.genome.edu.au/wp-content/uploads/2016/09/SimonGladman-200x300.jpg" />
   </div>
-  
+
   <div class="info">
     <h3>
       Simon Gladman
@@ -105,9 +105,9 @@
 
 <div class="wrapper">
   <div class="round">
-    <img src="https://genome.edu.au/wp-content/uploads/2016/09/TorstenSeemann.jpg" />
+    <img src="https://www.genome.edu.au/wp-content/uploads/2016/09/TorstenSeemann-200x300.jpg" />
   </div>
-  
+
   <div class="info">
     <h3>
       Torsten Seemann
@@ -117,9 +117,9 @@
 
 <div class="wrapper">
   <div class="round">
-    <img src="https://genome.edu.au/wp-content/uploads/2016/09/D4D_5706X.jpg" />
+    <img src="https://www.genome.edu.au/wp-content/uploads/2016/09/D4D_5706X-200x300.jpg" />
   </div>
-  
+
   <div class="info">
     <h3>
       Clare Sloggett
@@ -129,9 +129,9 @@
 
 <div class="wrapper">
   <div class="round">
-    <img src="https://genome.edu.au/wp-content/uploads/2016/09/NuwanGoonasekera.jpg" />
+    <img src="https://www.genome.edu.au/wp-content/uploads/2016/09/NuwanGoonasekera-200x300.jpg" />
   </div>
-  
+
   <div class="info">
     <h3>
       Nuwan Goonasekera
@@ -141,9 +141,9 @@
 
 <div class="wrapper">
   <div class="round">
-    <img src="https://genome.edu.au/wp-content/uploads/2016/09/JesiccaChung.jpg" />
+    <img src="https://www.genome.edu.au/wp-content/uploads/2016/09/JesiccaChung-200x300.jpg" />
   </div>
-  
+
   <div class="info">
     <h3>
       Jessica Chung
@@ -153,9 +153,9 @@
 
 <div class="wrapper">
   <div class="round">
-    <img src="https://genome.edu.au/wp-content/uploads/2016/09/MadisonFlannery.jpg" />
+    <img src="https://www.genome.edu.au/wp-content/uploads/2016/09/MadisonFlannery-200x300.jpg" />
   </div>
-  
+
   <div class="info">
     <h3>
       Madison Flannery
@@ -165,9 +165,9 @@
 
 <div class="wrapper">
   <div class="round">
-    <img src="https://genome.edu.au/wp-content/uploads/2016/09/Anna_Syme.jpeg" />
+    <img src="https://www.genome.edu.au/wp-content/uploads/2016/09/Anna_Syme.jpeg" />
   </div>
-  
+
   <div class="info">
     <h3>
       Anna Syme
@@ -177,9 +177,9 @@
 
 <div class="wrapper">
   <div class="round" style="height: 160px;">
-    <img src="https://genome.edu.au/wp-content/uploads/2016/09/pgeorgeson.jpg" />
+    <img src="https://www.genome.edu.au/wp-content/uploads/2016/09/pgeorgeson-248x300.jpg" />
   </div>
-  
+
   <div class="info">
     <h3>
       Peter Georgeson
@@ -189,9 +189,9 @@
 
 <div class="wrapper">
   <div class="round" style="height: 160px;">
-    <img src="https://genome.edu.au/wp-content/uploads/2016/08/enis.jpg" />
+    <img src="https://www.genome.edu.au/wp-content/uploads/2016/08/enis.jpg" />
   </div>
-  
+
   <div class="info">
     <h3>
       Enis Afgan
@@ -201,9 +201,9 @@
 
 <div class="wrapper">
   <div class="round">
-    <img src="https://genome.edu.au/wp-content/uploads/2016/09/Igor-LR_crop_BW.jpg" />
+    <img src="https://www.genome.edu.au/wp-content/uploads/2016/09/Igor-LR_crop_BW.jpg" />
   </div>
-  
+
   <div class="info">
     <h3>
       Igor Makunin
@@ -213,9 +213,9 @@
 
 <div class="wrapper">
   <div class="round">
-    <img src="https://genome.edu.au/wp-content/uploads/2016/09/Derek-LR_BW.jpg" />
+    <img src="https://www.genome.edu.au/wp-content/uploads/2016/09/Derek-LR_BW-215x300.jpg" />
   </div>
-  
+
   <div class="info">
     <h3>
       Derek Benson
