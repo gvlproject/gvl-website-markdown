@@ -153,21 +153,8 @@
 
 <div class="wrapper">
   <div class="round">
-    <img src="https://www.genome.edu.au/wp-content/uploads/2016/09/MadisonFlannery-200x300.jpg" />
-  </div>
-
-  <div class="info">
-    <h3>
-      Madison Flannery
-    </h3> Madison Flannery is a Bioinformatics Platforms Developer at VLSCI. She works on and maintains GenomeSpace, as well as the addition of new tools to the microbial GVL.
-  </div>
-</div>
-
-<div class="wrapper">
-  <div class="round">
     <img src="https://www.genome.edu.au/wp-content/uploads/2016/09/Anna_Syme.jpeg" />
   </div>
-
   <div class="info">
     <h3>
       Anna Syme
@@ -222,3 +209,48 @@
     </h3> Derek is the primary systems administrator of the public GVL server <a href="http://galaxy-qld.genome.edu.au">Galaxy-QLD</a>. He brings his expertise in virtualization and the cloud to assist users of the GVL to better use the platform. As well as this he is involved in testing, bug fixing, and wrapping tools for the Galaxy platform.
   </div>
 </div>
+
+### Alumnus
+
+<div class="wrapper">
+  <!--<div class="round">
+    <img src="https://www.genome.edu.au/wp-content/uploads/2016/09/AndrewLonie-200x300.jpg" />
+  </div>
+  -->
+
+  <div class="info">
+    <h3>
+      Mike Pheasant
+    </h3>
+  </div>
+</div>
+
+
+<div class="wrapper">
+  <!--<div class="round">
+    <img src="https://www.genome.edu.au/wp-content/uploads/2016/09/AndrewLonie-200x300.jpg" />
+  </div>
+  -->
+
+  <div class="info">
+    <h3>
+      Ron Horst
+    </h3>
+  </div>
+</div>
+
+<div class="wrapper">
+  <div class="round">
+    <img src="https://www.genome.edu.au/wp-content/uploads/2016/09/MadisonFlannery-200x300.jpg" />
+  </div>
+
+  <div class="info">
+    <h3>
+      Madison Flannery
+    </h3> Madison Flannery was a Bioinformatics Platforms Developer at VLSCI. She worked on and maintained GenomeSpace, as well as the addition of new tools to the microbial GVL.
+  </div>
+</div>
+
+
+
+
