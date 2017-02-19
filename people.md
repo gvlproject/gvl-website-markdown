@@ -210,7 +210,7 @@
   </div>
 </div>
 
-### Alumnus
+### Alumni
 
 <div class="wrapper">
   <!--<div class="round">
