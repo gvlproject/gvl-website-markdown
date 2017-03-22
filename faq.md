@@ -191,6 +191,21 @@ For more information refer to [GVL versions](/get/#Version_change_log)
 
 * * *
 
+## How do I create extra Unix user accounts for the GVL?
+
+The GVL provides an easy way to setup new accounts for command line access, RStudio access, and JupyterHub access.
+
+Replace `new_username` with the username you want to create.
+
+```
+cd /opt/gvl/gvl_commandline_utilities/
+bash setup_user.sh new_username
+```
+
+And enter the password for the new user when prompted.
+
+* * *
+
 ## When accessing my NeCTAR instance via SSH, why am I getting a permission denied (publickey) error?
 
 A permission denied (publickey) error typically means the private key is not a correct match for the public key.
