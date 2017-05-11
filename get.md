@@ -75,41 +75,13 @@ Private GVL servers may be launched on a public cloud of your choice (at present
 
 Flavours are versions of the GVL with slightly customised toolsets. These toolsets are optimised for different usage patterns. For example, the Tutorial flavour is intended for running the GVL tutorials, and the Microbial flavour is optimised for Microbial workflows.
 
-<table>
 
-<thead>
-<tr>
-<th>Flavour</th>
-<th>Description</th>
-<th>Preinstalled Tools</th>
-<th>Optionally Installable</th>
-</tr>
-</thead>
+| Flavour   | Description                                                                                                                                                                                                                  | Preinstalled Tools                                                                              | Optionally Installable                                                                                                                                                               |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Tutorial  | The tutorial flavour of the GVL contains all the tools required for the GVL tutorials preinstalled. Choose this option when your main purpose is educational and you want to follow the GVL tutorials with the least hassle. | Cloudman, Galaxy - with the standard GVL toolset, VNC, Command line access, RStudio, JupyterHub | PacBio's SMRT Analysis, Public Health Canada's IRIDA, WebApollo, Pathway Tools, LOVD, Cpipe, Pancancer BWA-Mem Workflow                                                              |
+| Base      | A basic GVL flavour with all options available for configuration. Use this option if you want to configure custom storage options, and individualy select which components to install.                                       | Cloudman, VNC, Command line Access                                                              | Galaxy - with the standard GVL toolset, RStudio, JupyterHub, PacBio's SMRT Analysis, Public Health Canada's IRIDA, WebApollo, Pathway Tools, LOVD, Cpipe, Pancancer BWA-Mem Workflow |
+| Microbial | GVL Microbial is similar to GVL base, but Galaxy and command line tools have been optimised for microbial workflows.                                                                                                         | Galaxy - with microbial tools (e.g. SPAdes, Prokka, Artemis, Snippy)                            | Same as base                                                                                                                                                                         |
 
-<tbody>
-<tr>
-<td>Tutorial</td>
-<td>The tutorial flavour of the GVL contains all the tools required for the GVL tutorials preinstalled. Choose this option when your main purpose is educational and you want to follow the GVL tutorials with the least hassle.</td>
-<td>Cloudman, Galaxy - with standard GVL toolset, VNC, Command line Access, RStudio, JupyterHub</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Base</td>
-<td>A basic GVL flavour with all options available for configuration. Use this option if you want to configure custom storage options, and individualy select which components to install</td>
-<td>Cloudman, VNC, Command line Access,</td>
-<td>Galaxy - with standard GVL toolset, RStudio, JupyterHub</td>
-</tr>
-
-<tr>
-<td>Microbial</td>
-<td>GVL Microbial is similar to GVL base, but Galaxy and command line tools optimised for microbial workflows.</td>
-<td>Galaxy - with microbial tools (e.g. spades, prokka, artemis, snippy)</td>
-<td>Same as base</td>
-</tr>
-
-</tbody>
-</table>
 
 -----
 
