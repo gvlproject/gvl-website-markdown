@@ -172,3 +172,19 @@ Metagenomics is the study of genetic material recovered directly from environmen
 ####[Amplicon Alignment Protocol](https://docs.google.com/document/d/1uW7JzxG86QzS92hTyeuNsLhX_d1XFbaZPSjh7jWxcSg/pub)
 
 * In this protocol we discuss and outline the process of aligning custom amplicons using primers for high precision.
+
+## Microbial genomics
+
+Various tutorials are available for microbial genomics at <https://sepsis-omics.github.io/tutorials/>. 
+
+These cover:
+
+* Starting with Galaxy
+* Galaxy workflows
+* Genome assembly (Spades, Velvet)
+* Genome annotation (Prokka)
+* Variant calling (Snippy)
+* Metagenomics (FROGS)
+* Differential gene expression
+
+
