@@ -173,6 +173,8 @@ Metagenomics is the study of genetic material recovered directly from environmen
 
 * In this protocol we discuss and outline the process of aligning custom amplicons using primers for high precision.
 
+* * *
+
 ## Microbial genomics
 
 Various tutorials are available for microbial genomics at <https://sepsis-omics.github.io/tutorials/>. 
