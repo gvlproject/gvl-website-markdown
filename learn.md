@@ -38,7 +38,7 @@ The tutorials listed here are designed to teach beginners how to use the Galaxy 
     *   [Tutorials](http://wiki.galaxyproject.org/Learn)
     *   [Screencasts](http://wiki.galaxyproject.org/Learn/Screencasts)
 *   [Queensland Facility for Advanced Bioinformatics](http://www.qfab.org/) training resources
-*   [Victorian Life Sciences Computation Initiative](http://www.vlsci.org.au/lscc) training resources
+*   [Melbourne Bioinformatics](https://www.melbournebioinformatics.org.au/tutorials/tutorials/) training resources
 *   Global resources of the [Galaxy Training Network](https://wiki.galaxyproject.org/Teach)
 
 * * *
@@ -101,7 +101,7 @@ Pipelines are for those who are comfortable with using the UNIX command line; an
 
 [**WGS/exome GATK-based variant calling pipeline**](https://github.com/claresloggett/variant_calling_pipeline)
 
-*   This is a basic variant-calling and annotation pipeline developed at the Victorian Life Sciences Computation Initiative (VLSCI), University of Melbourne.
+*   This is a basic variant-calling and annotation pipeline developed at Melbourne Bioinformatics, University of Melbourne.
 *   It is based around BWA, GATK and ENSEMBL and was originally designed for human (or similar) data.
 *   The master branch is configured for WGS data; there is an exome branch configured for variant calling in exome data.
 *   To run the pipeline you will need Rubra: [https://github.com/bjpop/rubra](https://github.com/bjpop/rubra). Rubra uses the python Ruffus library: [http://www.ruffus.org.uk](http://www.ruffus.org.uk/).

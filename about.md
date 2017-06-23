@@ -35,14 +35,14 @@ GVL acknowledges funding from the [NeCTAR project](https://www.nectar.org.au/). 
 * * *
 
 ##Development Partners
-GVL development has been led by the Victorian Life Sciences Computation Initiative at the University of Melbourne in collaboration with the Research Computing Centre at the University of Queensland.
+GVL development has been led by Melbourne Bioinformatics at the University of Melbourne in collaboration with the Research Computing Centre at the University of Queensland.
 
 *   The University of QLD Research Computing Centre is developing GVL infrastructure on the QLD Research Cloud with QCIF, and developing researcher resources with QFAB:
     *   [The University of Queensland](http://www.rcc.uq.edu.au/) (RCC)
     *   [QFAB Bioinformatics](http://www.qfab.org/)
     *   [Queensland Cyber Infrastructure Foundation](http://www.qcif.edu.au/) (QCIF)
-*   The Victorian Life Sciences Computation Initiative is developing GVL infrastructure on the Melbourne Research Cloud with University of Melbource ITS, and developing researcher resources with Peter Mac and Baker IDI:
-    *   [Victorian Life Sciences Computation Initiative](http://www.vlsci.org.au) (VLSCI)
+*   Melbourne Bioinformatics is developing GVL infrastructure on the Melbourne Research Cloud with University of Melbource ITS, and developing researcher resources with Peter Mac and Baker IDI:
+    *   [Melbourne Bioinformatics](melbournebioinformatics.org.au)
     *   [Victorian eResearch Strategic Initiative](http://versi.edu.au/) (VeRSI)
     *   [The University of Melbourne](http://www.unimelb.edu.au/) (UoM)
     *   [Baker IDI Heart and Diabetes Institute](http://www.bakeridi.edu.au/) (Baker IDI)
