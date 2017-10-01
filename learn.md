@@ -24,11 +24,11 @@ There are a combination of basic and advanced galaxy tutorials and command line 
 
 The tutorials listed here are designed to teach beginners how to use the Galaxy analysis platform. There are also a number of links to other resources from outside the GVL.
 
-#### [Introduction to Galaxy](http://vlsci.github.io/lscc_docs/tutorials/galaxy_101/galaxy_101/)
+#### [Introduction to Galaxy](https://melbournebioinformatics.github.io/MelBioInf_docs/tutorials/galaxy_101/galaxy_101/)
 
 *   A tutorial for those who are very new to Galaxy.
 
-#### [Galaxy Workflows](http://vlsci.github.io/lscc_docs/tutorials/galaxy-workflows/galaxy-workflows/)
+#### [Galaxy Workflows](https://melbournebioinformatics.github.io/MelBioInf_docs/tutorials/galaxy-workflows/galaxy-workflows/)
 
 *   Using Histories and Workflows for those with some Galaxy knowledge.
 
@@ -57,12 +57,12 @@ The tutorials listed here are designed to teach beginners how to use the GenomeS
 
 Measuring the state of a system by quantifying the amount of each messenger RNA present.
 
-#### [Basic Galaxy Tutorial](http://vlsci.github.io/lscc_docs/tutorials/rna_seq_dge_basic/rna_seq_basic_tutorial/)
+#### [Basic Galaxy Tutorial](https://melbournebioinformatics.github.io/MelBioInf_docs/tutorials/rna_seq_dge_basic/rna_seq_basic_tutorial/)
 
 *   RNA-Seq tutorial based on [Trapnell et al. (2012) Nature Protocols](http://www.nature.com/protocolexchange/protocols/2327)
 *   In this tutorial we cover the concepts of RNA-Seq differential gene expression (DGE) analysis using a very small synthetic dataset from a well studied organism.
 
-#### [Advanced Galaxy Tutorial](http://vlsci.github.io/lscc_docs/tutorials/rna_seq_dge_advanced/rna_seq_advanced_tutorial/)
+#### [Advanced Galaxy Tutorial](https://melbournebioinformatics.github.io/MelBioInf_docs/tutorials/rna_seq_dge_advanced/rna_seq_advanced_tutorial/)
 
 *   A more advanced RNASeq tutorial
 *   In this tutorial we compare the performance of three statistically-based differential expression tools:
@@ -84,11 +84,11 @@ Measuring the state of a system by quantifying the amount of each messenger RNA 
 
 Variant calling is the process of finding differences in your read data set from a reference sequence. It usually involves aligning sequences of your sample (be they reads or other) against a reference of your choosing, then searching for differences - be they SNPs, SNVs, CVs, InDels etc.
 
-#### [Basic Galaxy Tutorial](http://vlsci.github.io/lscc_docs/tutorials/variant_calling_galaxy_1/variant_calling_galaxy_1/)
+#### [Basic Galaxy Tutorial](https://melbournebioinformatics.github.io/MelBioInf_docs/tutorials/variant_calling_galaxy_1/variant_calling_galaxy_1/)
 
 *   In this tutorial we cover the concepts of detecting small variants (SNVs and indels) in human genomic DNA using a small set of reads from chromosome 22.
 
-#### [Advanced Galaxy Tutorial](http://vlsci.github.io/lscc_docs/tutorials/var_detect_advanced/var_detect_advanced/)
+#### [Advanced Galaxy Tutorial](https://melbournebioinformatics.github.io/MelBioInf_docs/tutorials/var_detect_advanced/var_detect_advanced/)
 
 *   In this tutorial we compare the performance of two statistically-based variant detection tools:
     *   GATK: Unified Genotyper
@@ -122,12 +122,12 @@ Pipelines are for those who are comfortable with using the UNIX command line; an
 
 Assembly is the process of taking DNA sequence data in the form of reads and reconstructing likely large contiguous segments of the original DNA. Presented here are an example Galaxy tutorial for the assembly of an E.coli genome from some Illumina sequence data and also a more generic assembly protocol document.
 
-####[Basic Galaxy Tutorial](http://vlsci.github.io/lscc_docs/tutorials/assembly/assembly/)
+####[Basic Galaxy Tutorial](https://melbournebioinformatics.github.io/MelBioInf_docs/tutorials/assembly/assembly/)
 
 * In this tutorial we carry out de novo assembly of a microbial genome.
 * We have also written a De novo Genome Assembly for Illumina Data Protocol, for a more generic description of the method.
 
-####[Assembly Protocol](http://vlsci.github.io/lscc_docs/tutorials/assembly/assembly-protocol/)
+####[Assembly Protocol](https://melbournebioinformatics.github.io/MelBioInf_docs/tutorials/assembly/assembly-protocol/)
 
 * De novo Genome Assembly for Illumina Data
 * In this protocol we discuss and outline the process of de novo assembly for small to medium sized genomes.
