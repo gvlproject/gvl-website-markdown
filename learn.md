@@ -47,7 +47,7 @@ The tutorials listed here are designed to teach beginners how to use the Galaxy 
 
 The tutorials listed here are designed to teach beginners how to use the GenomeSpace data storage platform.
 
-#### [GenomeSpace](https://vlsci.github.io/lscc_docs/tutorials/genomespace/genomespace/)
+#### [GenomeSpace](https://melbournebioinformatics.github.io/MelBioInf_docs/tutorials/genomespace/genomespace/)
 
 *   A tutorial for anyone wanting to learn how to use the GenomeSpace Data Platform and how to interact with it from Galaxy and the rest of the GVL.
 
