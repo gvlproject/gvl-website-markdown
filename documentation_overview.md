@@ -15,7 +15,7 @@
 
 A GVL instance is a server, usually running as a virtual machine in a cloud environment. You can find an overview of supported clouds and how to launch an instance on the [Launch page](launch).
 
-In particular, a step-by-step guide to launching an instance on the Australian Research Cloud (NeCTAR) can be found [here](https://vlsci.github.io/lscc_docs/tutorials/gvl_launch/gvl_launch/).
+In particular, a step-by-step guide to launching an instance on the Australian Research Cloud (NeCTAR) can be found [here](http://melbournebioinformatics.github.io/MelBioInf_docs/tutorials/gvl_launch/gvl_launch/).
 
 * * *
 

@@ -48,7 +48,7 @@ You can launch a new server instance on a public cloud, such as NeCTAR/OpenStack
 
 Use the [launch page](http://launch.genome.edu.au) to launch your own private server on the cloud, with the GVL pre-installed. You can launch a new server instance on an existing cloud, such as NeCTAR/OpenStack or Amazon/EC2 (the default for most users).
 
-Instructions on how to launch an instance can be found [here](http://vlsci.github.io/lscc_docs/tutorials/gvl_launch/gvl_launch/).
+Instructions on how to launch an instance can be found [here](http://melbournebioinformatics.github.io/MelBioInf_docs/tutorials/gvl_launch/gvl_launch/).
 
 <a id="gvl-launch-button" href="http://launch.genome.edu.au">Launch</a>
 
