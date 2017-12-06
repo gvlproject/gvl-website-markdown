@@ -17,7 +17,7 @@ hr {
 ## Personal GVL
 
 If you want to launch your own GVL please go to the [launch your own GVL](/get) page.  
-Instructions for launching a GVL instance are available [here](https://vlsci.github.io/lscc_docs/tutorials/gvl_launch/gvl_launch/).
+Instructions for launching a GVL instance are available [here](https://melbournebioinformatics.github.io/MelBioInf_docs/tutorials/gvl_launch/gvl_launch/).
 
 * * *
 
@@ -28,7 +28,7 @@ Instructions for launching a GVL instance are available [here](https://vlsci.git
 | ![GVL Logo](https://genome.edu.au/wp-content/uploads/2016/10/gvl-copy_3.jpg "Genomics Virtual Laboratory") | [Galaxy in Melbourne](http://galaxy-mel.genome.edu.au/) is available for research use | [Documents](https://wiki.galaxyproject.org/Support)  | [Support](mailto:help@genome.edu.au) |
 | ![GVL Logo](https://genome.edu.au/wp-content/uploads/2016/10/gvl-copy_3.jpg "Genomics Virtual Laboratory") | [Galaxy in Queensland](http://galaxy-qld.genome.edu.au/) is available for research use.  | [Documents](https://wiki.galaxyproject.org/Support)  | [Support](mailto:help@genome.edu.au) |
 | ![GVL Logo](https://genome.edu.au/wp-content/uploads/2016/10/gvl-copy_3.jpg "Genomics Virtual Laboratory") | [Galaxy-Tut](http://galaxy-tut.genome.edu.au) is available for teaching/learning.  | [Documents](https://wiki.galaxyproject.org/Support)  | [Support](mailto:help@genome.edu.au) |
-| ![GenomeSpace Logo](https://genome.edu.au/wp-content/uploads/2016/03/logo_genomespace.png)| [GenomeSpace Australia](https://genomespace.genome.edu.au) is available for research use.  | [Documents](https://vlsci.github.io/lscc_docs/tutorials/genomespace/genomespace/)  | [Support](mailto:help@genome.edu.au) |
+| ![GenomeSpace Logo](https://genome.edu.au/wp-content/uploads/2016/03/logo_genomespace.png)| [GenomeSpace Australia](https://genomespace.genome.edu.au) is available for research use.  | [Documents](https://melbournebioinformatics.github.io/MelBioInf_docs/tutorials/genomespace/genomespace/)  | [Support](mailto:help@genome.edu.au) |
 | ![RStudio Logo](https://genome.edu.au/wp-content/uploads/2016/03/rstudio.png) | [RStudio](http://gvl-rstudio.genome.edu.au/rstudio) in Queensland is available for research use.  |   | [Support](mailto:help@genome.edu.au) |
 
 
