@@ -90,61 +90,89 @@ Flavours are versions of the GVL with slightly customised toolsets. These toolse
 <table>
 <thead>
 <tr>
-<th>Version</th>
-<th>New Features</th>
-<th>Deprecated features</th>
+    <th>Version</th>
+    <th>New Features</th>
+    <th>Release Date</th>
+    <th>Deprecated features</th>
 </tr>
 </thead>
 
 <tbody>
-<tr>
-<td>4.1.0</td>
-<td>
-<ul>
-<li>Galaxy updated to 16.04</li>
-<li>Updated list of tools and tool revisions</li>
-<li>Easier import/export of files from/to GenomeSpace</li>
-<li>SMRT portal uses distributed jobs and has better space management</li>
-<li>New installable packages for Web Apollo, IRIDA</li>
-<li>User accounts are now synchronised across the whole cluster.</li>
-<li>X-Forwarding support</li>
-<li>Increased space in root partition and reduced virtual image size</li>
-</ul>
-</td>
-<td></td>
-</tr>
+    <tr>
+        <td>4.3.0</td>
+        <td>
+            <ul>
+                <li>Indices changes to use CVMFS</li>
+                <li>Support for Galaxy Interactive Environments</li>
+                <li>Misc. bug fixes and updates</li>
+            </ul>
+        </td>
+        <td>12/12/2017</td>
+        <td></td>
+    </tr>
 
-<tr>
-<!--<td>4.0.0 Beta1</td>-->
-<td>4.0.0</td>
-<td>
-<ul>
-<li>GVL now supported on Amazon EC2</li>
-<li>Image updated to Ubuntu 14.04 LTS</li>
-<li>A new Ansible based build process to replace the old Fabric based one</li>
-<li>Job management software has been switched from SGE to SLURM, as SGE does not support Ubuntu 14.04</li>
-<li>New installable packages for cpipe, lovd and SMRT-Analysis</li>
-<li>Support for GVL flavours</li>
-<li>Overhauled list of Galaxy tools for each flavour</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>SGE is no longer available and has been replaced with SLURM.</li>
-</ul>
-</td>
-</tr>
+    <tr>
+        <td>4.2.0</td>
+        <td>
+            <ul>
+                <li>Galaxy updated to 17.09</li>
+                <li>Updated list of tools and tool revisions</li>
+            </ul>
+        </td>
+        <td>29/10/2017</td>
+        <td></td>
+    </tr>
 
-<tr>
-<td>3.04</td>
-<td>
-<ul>
-<li>Introduction of the GVL Dashboard as a portal for other GVL services</li>
-<li>Security and package updates to Ubuntu 12.04 LTS</li>
-<li>Stability and bug fixes</li>
-</ul>
-</td>
-<td></td>
-</tr>
+    <tr>
+        <td>4.1.0</td>
+        <td>
+            <ul>
+                <li>Galaxy updated to 16.04</li>
+                <li>Updated list of tools and tool revisions</li>
+                <li>Easier import/export of files from/to GenomeSpace</li>
+                <li>SMRT portal uses distributed jobs and has better space management</li>
+                <li>New installable packages for Web Apollo, IRIDA</li>
+                <li>User accounts are now synchronised across the whole cluster</li>
+                <li>X-Forwarding support</li>
+                <li>Increased space in root partition and reduced virtual image size</li>
+            </ul>
+        </td>
+        <td>17/08/2016</td>
+        <td></td>
+    </tr>
+
+    <tr>
+        <td>4.0.0</td>
+        <td>
+            <ul>
+                <li>GVL now supported on Amazon EC2</li>
+                <li>Image updated to Ubuntu 14.04 LTS</li>
+                <li>A new Ansible based build process to replace the old Fabric based one</li>
+                <li>Job management software has been switched from SGE to SLURM, as SGE does not support Ubuntu 14.04</li>
+                <li>New installable packages for cpipe, lovd and SMRT-Analysis</li>
+                <li>Support for GVL flavours</li>
+                <li>Overhauled list of Galaxy tools for each flavour</li>
+            </ul>
+        </td>
+        <td>28/09/2015</td>
+        <td>
+            <ul>
+                <li>SGE is no longer available and has been replaced with SLURM.</li>
+            </ul>
+        </td>
+    </tr>
+
+    <tr>
+        <td>3.04</td>
+        <td>
+            <ul>
+                <li>Introduction of the GVL Dashboard as a portal for other GVL services</li>
+                <li>Security and package updates to Ubuntu 12.04 LTS</li>
+                <li>Stability and bug fixes</li>
+            </ul>
+        </td>
+        <td>08/11/2014</td>
+        <td></td>
+    </tr>
 </tbody>
 </table>
