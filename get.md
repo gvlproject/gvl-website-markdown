@@ -71,6 +71,9 @@ Private GVL servers may be launched on a public cloud of your choice (at present
 
 ## Flavours
 
+Prior to GVL 4.2, the GVL was available in different flavours. Each flavour had slightly customised toolsets and reference datasets. These toolsets are optimised for different usage patterns. For example, the Tutorial flavour was intended for running the GVL tutorials, and the Microbial flavour was optimised for Microbial workflows. Due to reference data being more readily avaialble via the CVMFS mounts the flavours have now been merged together.
+
+<!--
 ##### What is a flavour?
 
 Flavours are versions of the GVL with slightly customised toolsets. These toolsets are optimised for different usage patterns. For example, the Tutorial flavour is intended for running the GVL tutorials, and the Microbial flavour is optimised for Microbial workflows.
@@ -84,7 +87,7 @@ Flavours are versions of the GVL with slightly customised toolsets. These toolse
 | Microbial | GVL Microbial is similar to GVL base, but Galaxy and command line tools have been optimised for microbial workflows.                                                                                                         | Galaxy - with microbial tools (e.g. SPAdes, Prokka, Artemis, Snippy), Cloudman, VNC, Command line access | Same as base                                                                                                                                 |
 
 -----
-
+-->
 ## Version change log
 
 <table>
@@ -117,10 +120,15 @@ Flavours are versions of the GVL with slightly customised toolsets. These toolse
             <ul>
                 <li>Galaxy updated to 17.09</li>
                 <li>Updated list of tools and tool revisions</li>
+                <li>Microbial and Tutorial flavours merged with standard.</li>
             </ul>
         </td>
         <td>29/10/2017</td>
-        <td></td>
+        <td>
+            <ul>
+                <li>Flavours have all been merged.</li>
+            </ul>
+        </td>
     </tr>
 
     <tr>
