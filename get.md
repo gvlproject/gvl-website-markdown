@@ -57,7 +57,7 @@ Instructions on how to launch an instance can be found [here](http://melbournebi
 
 To launch your server on a private cloud, you must build the GVL manually on your cloud. At present, OpenStack and EC2 compatible clouds are supported. If you are using OpenStack, you must have the EC2 compatibility layer enabled.
 
-You can find source code and instructions to build a GVL image in our [repository](https://github.com/gvlproject/gvl.ansible.image).
+You can find source code and instructions to build a GVL image in our [repository](https://github.com/gvlproject/gvl.ansible.playbook).
 
 -----
 
